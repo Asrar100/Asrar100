@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asrar100
+- 👋 Hi, I’m Shadab Asrar
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning HTML, CSS and JavaScripts
 - 😄 Pronouns: 😀
